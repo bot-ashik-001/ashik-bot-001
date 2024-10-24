@@ -15,7 +15,7 @@ module.exports = {
  if (event.body && event.body.toLowerCase() === "💋") {
  return message.reply({
  body: " 「___😽🌹ღ۵࿐\n❥一༊ বিছানায় হিসু করে দেওয়ার পর🙊,\nমেয়ে টি😻Facebook a স্ট্যাটাস দিলো\nবিপদ কখনো বলে আসে না।🥀😌🐸\n༉💚🥰彡\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\nBOSS~ASHIK 」",
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/received_834053395560430.mp4")
+ attachment: await global.utils.getStreamFromURL("https://www.facebook.com/share/r/67EMmKzXbErwnSNP/")
  });
  }
  }
